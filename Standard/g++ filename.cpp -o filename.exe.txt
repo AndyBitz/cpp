@@ -1,1 +1,0 @@
-command "g++ filename.cpp -o filename.exe"
