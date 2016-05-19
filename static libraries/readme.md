@@ -2,7 +2,7 @@
 
 to make a library file you have to make an object file first: ```g++ -c file.cpp```
 
-  
+ 
 
 after that you will get ```file.o```
 
