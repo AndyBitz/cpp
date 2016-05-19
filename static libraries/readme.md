@@ -44,7 +44,7 @@ g++ main.cpp lib/x64/lib.a -o main.exe
 
 organize files:
 	1. put header files into an *include* folder
-	2. put the *.a*, *.o*, *.lib* files into a *lib/x86* or *lib/x64* folder
+	2. put the *.a*, *.o*, *.lib* files into a ```lib/x86/``` or ```lib/x64/``` folder
 
 
 
