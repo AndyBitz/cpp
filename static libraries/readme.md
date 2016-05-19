@@ -1,18 +1,18 @@
 ### project-info ###
 
-to make a library file you have to make an object file first: ```g++ -c file.cpp```
+to make a library file you have to make an object file first: ```g++ -c file.cpp```    return
 
 
 
-after that you will get ```file.o```
+after that you will get ```file.o```    return
 
 
 
-if you have multiple *.o* files you can put them together to an archive: ```ar rcs file.a file.o```
+if you have multiple *.o* files you can put them together to an archive: ```ar rcs file.a file.o```    return
 
 
 
-adding a file to the archive goes like this: ```ar rcs file.a file2.o```
+adding a file to the archive goes like this: ```ar rcs file.a file2.o```    return
 
 
 
