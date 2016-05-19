@@ -9,6 +9,10 @@
 * adding a file to the archive goes like this: ```ar rcs file.a file2.o```
 
 * before compiling make sure the header of the file you want to use is included
+	```
+	#!c++
+	#include "file.h"
+	```
 
 * compiling:
 	```g++ main.cpp lib.a -o main.exe```
