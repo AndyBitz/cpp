@@ -1,0 +1,1 @@
+g++ app.cpp -o app.exe -std=c++11
